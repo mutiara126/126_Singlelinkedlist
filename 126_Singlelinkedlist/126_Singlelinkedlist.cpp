@@ -87,6 +87,11 @@ bool listEmpty() {
 		return true;
 	else
 		return false;
+
+}
+
+void traverse() {
+	
 }
 
 
