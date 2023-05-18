@@ -91,6 +91,11 @@ bool listEmpty() {
 }
 
 void traverse() {
+	if (listEmpty()) {
+		cout << "List Kosong" << endl;
+		
+	}
+
 	
 }
 
